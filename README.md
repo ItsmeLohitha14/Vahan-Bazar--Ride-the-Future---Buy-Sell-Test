@@ -1,4 +1,4 @@
-🚀 Vahan Bazar – Ride the Future | Buy · Sell · Test
+🚀 𝐕𝐚𝐡𝐚𝐧 𝐁𝐚𝐳𝐚𝐫 – 𝐑𝐢𝐝𝐞 𝐭𝐡𝐞 𝐅𝐮𝐭𝐮𝐫𝐞 | 𝐁𝐮𝐲 · 𝐒𝐞𝐥𝐥 · 𝐓𝐞𝐬𝐭
 
 Empowering Vehicle Dealers & Transforming the Way Vehicles Are Searched Online
 
@@ -16,19 +16,19 @@ Empowering Vehicle Dealers & Transforming the Way Vehicles Are Searched Online
 5].Venkamsetty Pavan Sai Ram
 
 
-📂 Documentation
+📂 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧
 
 View our full documentation here: 👉 Google Docs – [Vahan Bazar Documentation](http://docs.google.com/document/d/1G1mQw-pfbGgbyEKpla55wX-UNeRVb2DD/edit)
 
 
-📌 Project Summary
+📌 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐮𝐦𝐦𝐚𝐫𝐲
 
 Vahan Bazar is an intelligent two-wheeler marketplace designed to simplify the buying, selling, and exploring of vehicles. With a focus on dealers, buyers, and sellers, it bridges existing gaps in the automobile industry by providing a centralized and transparent digital platform.
 
 Our platform empowers vehicle dealers with digital tools, ensures fair pricing for sellers, and creates a seamless experience for buyers through advanced search, comparison, and finance tools.
 
 
-✨ Why Vahan Bazar?
+✨ 𝐖𝐡𝐲 𝐕𝐚𝐡𝐚𝐧 𝐁𝐚𝐳𝐚𝐫?
 
 🚴 Buyers get clear, transparent, and comparable insights about bikes, scooters, and EVs.
 
@@ -37,6 +37,6 @@ Our platform empowers vehicle dealers with digital tools, ensures fair pricing f
 🏢 Dealers & Showrooms benefit from increased visibility, lead generation, and digital transformation.
 
 
-🌟 Vision
+🌟 𝐎𝐮𝐫 𝐕𝐢𝐬𝐢𝐨𝐧
 
 Vahan Bazar is more than just a marketplace – it’s a step toward digital empowerment of vehicle dealers and a future-ready solution for customers to experience trust, transparency, and technology in the automobile industry.
