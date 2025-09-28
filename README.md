@@ -6,7 +6,7 @@ Empowering Vehicle Dealers & Transforming the Way Vehicles Are Searched Online
 
 View our full documentation here: 👉 Google Docs – [Vahan Bazar Documentation](http://docs.google.com/document/d/1G1mQw-pfbGgbyEKpla55wX-UNeRVb2DD/edit)
 
-![image alt](https://github.com/ItsmeLohitha14/Vahan-Bazar--Ride-the-Future---Buy-Sell-Test/blob/7102162db3cb3f3bedcce185c0aa29f978e72f5b/Documents/Readme%20Design.jpg)
+![image alt](https://github.com/ItsmeLohitha14/Vahan-Bazar--Ride-the-Future---Buy-Sell-Test/blob/977b0c41b6dff840d4269b52ba1595f7cb329a48/Documents/UI%20Design.jpg)
 👋 Welcome to Team INNO THINKERS
 
 1].Chittem Venkata Lohitha
