@@ -9,6 +9,7 @@ Empowering Dealers, Sellers & Buyers with Trust, Transparency, and Technology
 View our full documentation here: 👉 Google Docs – [Vahan Bazar Documentation](http://docs.google.com/document/d/1G1mQw-pfbGgbyEKpla55wX-UNeRVb2DD/edit)
 
 ![image alt](https://github.com/ItsmeLohitha14/Vahan-Bazar--Ride-the-Future---Buy-Sell-Test/blob/977b0c41b6dff840d4269b52ba1595f7cb329a48/Documents/UI%20Design.jpg)
+<br>
 👨‍💻 Welcome to Team INNO THINKERS
 ---
 1].Chittem Venkata Lohitha
@@ -44,6 +45,7 @@ Our platform empowers vehicle dealers with digital tools, ensures fair pricing f
 
 
 <br>  
+
 🌟 𝐕𝐢𝐬𝐢𝐨𝐧
 ---
 Vahan Bazar is more than a marketplace.
@@ -83,6 +85,7 @@ We envision a trusted ecosystem where every two-wheeler journey — from search 
 🤝 Social Value – Encourages digital adoption for traditional dealers.
 
 <br>  
+
 🚀 𝐂𝐥𝐨𝐬𝐢𝐧𝐠 𝐍𝐨𝐭𝐞
 ---
 “Vahan Bazar is more than a prototype — it’s our vision of a smarter, fairer, and more connected two-wheeler ecosystem. By bridging the gap between buyers, sellers, and dealers, we are shaping the future of mobility in India.”
