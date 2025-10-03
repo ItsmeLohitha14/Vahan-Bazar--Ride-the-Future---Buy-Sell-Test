@@ -8,6 +8,8 @@ Empowering Dealers, Sellers & Buyers with Trust, Transparency, and Technology
 ---
 View our full documentation here: 👉 Google Docs – [Vahan Bazar Documentation](http://docs.google.com/document/d/1G1mQw-pfbGgbyEKpla55wX-UNeRVb2DD/edit)
 
+View our full Power Point Presentation here: 👉 PPT – [Vahan Bazar Presentation](https://docs.google.com/presentation/d/1HaWW9NGkDmHKqVQf8TvXlizbDtxqLFzM/edit?usp=drive_link&ouid=106392861276481992670&rtpof=true&sd=true)
+
 ![image alt](https://github.com/ItsmeLohitha14/Vahan-Bazar--Ride-the-Future---Buy-Sell-Test/blob/977b0c41b6dff840d4269b52ba1595f7cb329a48/Documents/UI%20Design.jpg)
 <br>
 👨‍💻 Welcome to Team INNO THINKERS
@@ -21,7 +23,6 @@ View our full documentation here: 👉 Google Docs – [Vahan Bazar Documentatio
 4].Onteru Sandeep Kumar Yadav
 
 5].Venkamsetty Pavan Sai Ram
-
 
 <br>  
 
